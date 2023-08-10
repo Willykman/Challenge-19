@@ -14,4 +14,6 @@ web3 - For interacting with Ethereum streamlit - To turn data scripts into share
 
 Streamlit
 
+Ganache
+
 **Contributors** Starter code for this app was provided by the CU Fintech Bootcamp. Updates to that code to fulfill the analysis were done by William Korman and help from TA.
